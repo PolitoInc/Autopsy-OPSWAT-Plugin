@@ -1,0 +1,12 @@
+C:\Program Files\Autopsy-4.15.0\platform=1588260110000
+cluster.C:/Users/Ian Duffy/Documents/NetBeansProjects/metadefenderautopsy/build/cluster=1596575395123
+cluster.C:/Program Files/Autopsy-4.15.0/autopsy=1588260330000
+cluster.C:/Program Files/Autopsy-4.15.0/harness=1588260080000
+cluster.C:/Program Files/Autopsy-4.15.0/java=1588260092000
+cluster.C:/Program Files/Autopsy-4.15.0/platform=1588260110000
+user=1596575395123
+crc=7
+locale=en_US
+branding=null
+java.version=1.8.0_261
+java.vm.version=25.261-b12

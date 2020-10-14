@@ -1,0 +1,28 @@
+2020-08-04 17:12:26.094 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closed current case Test4 (test4_20200804_171027) in C:\Temp\Test Autopsy Case\Test4
+2020-08-04 17:12:26.139 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Stopping Solr server from: C:\Program Files\Autopsy-4.15.0\autopsy\solr
+2020-08-04 17:12:26.14 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Running Solr command: [C:\Program Files\Autopsy-4.15.0\jre\bin\java, -Xmx512m, -DSTOP.PORT=34343, -Djetty.port=23232, -DSTOP.KEY=jjk#09s, -jar, start.jar, --stop]
+2020-08-04 17:12:26.142 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Finished running Solr command
+2020-08-04 17:12:26.143 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Waiting for Solr server to stop
+2020-08-04 17:12:26.753 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Finished stopping Solr server
+2020-08-04 17:12:26.753 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2020-08-04 17:12:27.333 org.sleuthkit.autopsy.core.Installer close
+INFO: close()
+2020-08-04 17:12:27.333 org.sleuthkit.autopsy.core.Installer close
+INFO: org.sleuthkit.autopsy.coreutils.Installer close()
+2020-08-04 17:12:27.333 org.sleuthkit.autopsy.core.Installer close
+INFO: org.sleuthkit.autopsy.corecomponents.Installer close()
+2020-08-04 17:12:27.333 org.sleuthkit.autopsy.core.Installer close
+INFO: org.sleuthkit.autopsy.datamodel.Installer close()
+2020-08-04 17:12:27.333 org.sleuthkit.autopsy.core.Installer close
+INFO: org.sleuthkit.autopsy.ingest.Installer close()
+2020-08-04 17:12:27.334 org.sleuthkit.autopsy.core.Installer close
+INFO: org.sleuthkit.autopsy.centralrepository.eventlisteners.Installer close()
+2020-08-04 17:12:27.334 org.sleuthkit.autopsy.core.Installer close
+INFO: org.sleuthkit.autopsy.healthmonitor.Installer close()

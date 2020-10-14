@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mode version="2.4">
+    <name unique="outputFloat"  />
+  <kind type="editor" />
+  <state type="separated"  />
+  <bounds x="300" y="495" width="640" height="480" />
+  <frame state="0"/>
+    <empty-behavior permanent="true"/>
+</mode>

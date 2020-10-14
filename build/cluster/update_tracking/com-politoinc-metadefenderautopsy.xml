@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.politoinc.metadefenderautopsy">
+    <module_version install_time="1596575551050" last="true" origin="installer" specification_version="1.0">
+        <file crc="2516992168" name="config/Modules/com-politoinc-metadefenderautopsy.xml"/>
+        <file crc="604981131" name="modules/com-politoinc-metadefenderautopsy.jar"/>
+        <file crc="1093406801" name="modules/ext/gson-2.8.0-javadoc.jar"/>
+        <file crc="860214566" name="modules/ext/gson-2.8.0-sources.jar"/>
+        <file crc="19399784" name="modules/ext/gson-2.8.0.jar"/>
+    </module_version>
+</module>

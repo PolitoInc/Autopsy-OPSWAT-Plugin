@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.sleuthkit.autopsy.core/10" spec="10.19.31"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <instanceof class="org.sleuthkit.autopsy.ingest.IngestMessageTopComponent"/>
+    <serialdata class="org.sleuthkit.autopsy.ingest.IngestMessageTopComponent">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D6403000078707400366F72672E736C657574686B69742E6175746F7073792E696E676573742E496E67657374
+        4D657373616765546F70436F6D706F6E656E747372000F6A6176612E6C616E672E53686F7274684D37133460DA5202000153
+        000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B020000787000017704000000017400
+        084D657373616765737400104D657373616765732077696E646F777374000C496E6765737420496E626F787078
+    </serialdata>
+</settings>
