@@ -1,6 +1,6 @@
 # Autopsy-Opswat-Plugin
 OpSwat hash query plugin for Autopsy forensics platform. Requires OpSwat Metadefender Free API credentials: https://metadefender.opswat.com/.
-
+autopsy-metadefender1.png
 Please see our blog post for detailed instructions about how to use this OpSwat plugin with Autopsy 4.x: https://www.politoinc.com/post/dynamic-analysis-using-autopsy-part-1
 Feel free to open an issue in GitHub or contact us if you encounter any issues or want to suggest a feature. We will do our best to respond in a timely manner.
 
